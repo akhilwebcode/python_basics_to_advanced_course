@@ -1,9 +1,9 @@
 # Python Basic to Advance Tutorial Syllabus
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Python Basic](#python-basic)
-- [Operator](#operator)
+- **[Introduction](#introduction)**
+- **[Python Basic](#python-basic)**
+- **[Operator](#operator)**
     - [Operator](#operator)
     - [Assignment Operator](#assignment-operator)
     - [Comparison Operator](#comparison-operator)
