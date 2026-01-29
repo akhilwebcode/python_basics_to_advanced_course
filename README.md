@@ -120,3 +120,23 @@ Python is a high-level programming language known for its simple and readable sy
 [Python Download](https://www.python.org/)
 
 - and Install Python on your system.
+
+### Variable
+
+In Python, variables are used to store data that can be referenced and manipulated during program execution. A variable is essentially a name that is assigned to a value.
+
+- Variable names can only contain letters, digits and underscores (_).
+- A variable name cannot start with a digit.
+- Variable names are case-sensitive like myVar and myvar are different.
+- Avoid using Python keywords like if, else, for as variable names.
+
+- Valid Examples:
+    - myVar
+    - _myVar
+    - my_var
+    - MY_VAR
+
+- Invalid Examples:
+    - 123var
+    - var-name
+    - for
