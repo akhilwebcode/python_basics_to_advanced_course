@@ -8,7 +8,7 @@ Here's a clear, structured python syllabus description you can use for a course 
     - [Introduction and Installation](#introduction-and-installation) 
     - [Variable](#variable)
     - [Data Type](#data-type)
-        - [Int](#int)
+        - [Integer](#integer)
         - [Float](#float)
         - [String](#string)
         - [Boolean](#boolean)
@@ -146,3 +146,27 @@ In Python, variables are used to store data that can be referenced and manipulat
 Data types in Python are a way to classify data items. They represent the kind of value, which determines what operations can be performed on that data. Since everything is an object in Python programming, Python data types are classes and variables are instances (objects) of these classes.
 
 ![Data Type](img/1.png)
+
+#### Integer
+
+value is represented by int class. It contains positive or negative whole numbers (without fractions or decimals). There is no limit to how long an integer value can be.
+
+**Example: 10, -20, 0, 1234567890**
+
+#### Float
+
+value is represented by float class. It contains positive or negative numbers with decimal points.
+
+**Example: 3.14, -0.5, 2.0**
+
+#### String
+
+value is represented by str class. It contains a sequence of characters, such as letters, numbers, symbols, and spaces. Strings are enclosed in single quotes ('') or double quotes ("").
+
+**Example: "Hello, World!", 'Python', '12345'**
+
+#### Boolean
+
+value is represented by bool class. It contains two possible values: True or False.
+
+**Example: True, False**
