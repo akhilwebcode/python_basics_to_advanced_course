@@ -187,3 +187,9 @@ Implicit type conversion occurs when Python automatically converts one data type
 Explicit type conversion occurs when the user manually converts one data type to another using built-in functions or methods. This is done when the default implicit conversion is not desired or when the user wants to control the conversion process.
 
 - **Example: int("10") = 10 (string is explicitly converted to int)**
+
+### Operators
+
+Operators are special symbols in Python that perform operations on variables and values. They are used to perform calculations, comparisons, and logical operations.
+
+![Operators](img/2.png)
