@@ -147,25 +147,25 @@ Data types in Python are a way to classify data items. They represent the kind o
 
 ![Data Type](img/1.png)
 
-#### Integer
+#### **Integer**
 
 value is represented by int class. It contains positive or negative whole numbers (without fractions or decimals). There is no limit to how long an integer value can be.
 
 **Example: 10, -20, 0, 1234567890**
 
-#### Float
+#### **Float**
 
 value is represented by float class. It contains positive or negative numbers with decimal points.
 
 **Example: 3.14, -0.5, 2.0**
 
-#### String
+#### **String**
 
 value is represented by str class. It contains a sequence of characters, such as letters, numbers, symbols, and spaces. Strings are enclosed in single quotes ('') or double quotes ("").
 
 **Example: "Hello, World!", 'Python', '12345'**
 
-#### Boolean
+#### **Boolean**
 
 value is represented by bool class. It contains two possible values: True or False.
 
@@ -178,12 +178,12 @@ Type Casting is the method to convert the Python variable datatype into a certai
 - Implicit Type Casting
 - Explicit Type Casting
 
-- **Implicit Type Casting**
+#### **Implicit Type Casting**
 Implicit type conversion occurs when Python automatically converts one data type to another during an operation to ensure correct and safe evaluation, without requiring any action from the user.
 
-**Example: 10 + 3.14 = 13.14 (int is implicitly converted to float)**
+- **Example: 10 + 3.14 = 13.14 (int is implicitly converted to float)**
 
-- **Explicit Type Casting**
+#### **Explicit Type Casting**
 Explicit type conversion occurs when the user manually converts one data type to another using built-in functions or methods. This is done when the default implicit conversion is not desired or when the user wants to control the conversion process.
 
-**Example: int("10") = 10 (string is explicitly converted to int)**
+- **Example: int("10") = 10 (string is explicitly converted to int)**
