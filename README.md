@@ -201,3 +201,29 @@ Operators are special symbols in Python that perform operations on variables and
 Python operators are fundamental for performing mathematical calculations. Arithmetic operators are symbols used to perform mathematical operations on numerical values. Arithmetic operators include addition (+), subtraction (-), multiplication (*), division (/), and modulus (%).
 
 ![Airthmetic Operators](img/3.png)
+
+#### **Comparison Operators**
+
+Comparison operators are used to compare two values and return a boolean result (True or False). They are used in conditional statements and loops to make decisions based on comparisons.
+
+![Comparison Operators](img/4.png)
+
+#### **Logical Operators**
+
+Logical operators are used to combine multiple boolean expressions and return a boolean result. They are used in conditional statements and loops to make decisions based on multiple conditions.
+
+![Logical Operators](img/5.png)
+
+![Logic](img/6.png)
+
+#### **Bitwise Operators**
+
+Bitwise operators are used to perform operations on individual bits of binary numbers. They are used in low-level programming and cryptography.
+
+![Bitwise Operators](img/7.png)
+
+#### **Assignment Operators**
+
+Assignment operators are used to assign values to variables. They are used in loops and other constructs to update variable values.
+
+![Assignment Operators](img/8.png)
