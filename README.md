@@ -17,6 +17,8 @@ Here's a clear, structured python syllabus description you can use for a course 
         - [Airthmetic Operators](#airthmetic-operators)
         - [Comparison Operators](#comparison-operators)
         - [Logical Operators](#logical-operators)
+        - [Bitwise Operators](#bitwise-operators)
+        - [Assignment Operators](#assignment-operators)
     - [Input and Output](#input-and-output)
     - [Comments](#comments)
     - **Practice**
