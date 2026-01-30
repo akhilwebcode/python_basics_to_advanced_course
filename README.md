@@ -170,3 +170,20 @@ value is represented by str class. It contains a sequence of characters, such as
 value is represented by bool class. It contains two possible values: True or False.
 
 **Example: True, False**
+
+### Type Casting
+
+Type Casting is the method to convert the Python variable datatype into a certain data type in order to perform the required operation by users. In this article, we will see the various techniques for typecasting. There can be two types of Type Casting in Python:
+
+- Implicit Type Casting
+- Explicit Type Casting
+
+- **Implicit Type Casting**
+Implicit type conversion occurs when Python automatically converts one data type to another during an operation to ensure correct and safe evaluation, without requiring any action from the user.
+
+**Example: 10 + 3.14 = 13.14 (int is implicitly converted to float)**
+
+- **Explicit Type Casting**
+Explicit type conversion occurs when the user manually converts one data type to another using built-in functions or methods. This is done when the default implicit conversion is not desired or when the user wants to control the conversion process.
+
+**Example: int("10") = 10 (string is explicitly converted to int)**
