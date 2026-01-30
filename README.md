@@ -140,3 +140,9 @@ In Python, variables are used to store data that can be referenced and manipulat
     - 123var
     - var-name
     - for
+
+### Data Type
+
+Data types in Python are a way to classify data items. They represent the kind of value, which determines what operations can be performed on that data. Since everything is an object in Python programming, Python data types are classes and variables are instances (objects) of these classes.
+
+[Data Type](img/1.png)
