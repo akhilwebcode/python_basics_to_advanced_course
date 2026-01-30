@@ -195,3 +195,9 @@ Explicit type conversion occurs when the user manually converts one data type to
 Operators are special symbols in Python that perform operations on variables and values. They are used to perform calculations, comparisons, and logical operations.
 
 ![Operators](img/2.png)
+
+#### **Airthmetic Operators**
+
+Python operators are fundamental for performing mathematical calculations. Arithmetic operators are symbols used to perform mathematical operations on numerical values. Arithmetic operators include addition (+), subtraction (-), multiplication (*), division (/), and modulus (%).
+
+![Airthmetic Operators](img/3.png)
