@@ -251,8 +251,8 @@ float(input("Price of each rose?: "))
 
 #### **Output**
 
-name = input("Enter your name: ")
-print("Hello,", name, "! Welcome!")
+- name = input("Enter your name: ")
+- print("Hello,", name, "! Welcome!")
 
 **Output**
 Hello, Akhilesh! Welcome
@@ -266,8 +266,11 @@ Comments in Python are the lines in the code that are ignored by the interpreter
 """ Multi-line comment used
 print("Python Comments") """
 
+### Practice
 
-
+#### Calculator
+#### Temperature Convertor
+#### Simple Interest
 
 
 
