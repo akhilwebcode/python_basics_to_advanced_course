@@ -222,8 +222,8 @@ Bitwise operators are used to perform operations on individual bits of binary nu
 
 ![Bitwise Operators](img/7.png)
 
-![Decimal to Binary](img/25-in-binary.png)
-![Decimal to Binary](img/17-in-binary.png)
+![Decimal to Binary](img/17-in-Binary.png)
+![Decimal to Binary](img/25-in-Binary.png)
 
 <table border="2px" style="padding: 10px; border:2px solid orange; border-collapse: collapse; font-size:25px;">
         <tr>
