@@ -227,3 +227,51 @@ Bitwise operators are used to perform operations on individual bits of binary nu
 Assignment operators are used to assign values to variables. They are used in loops and other constructs to update variable values.
 
 ![Assignment Operators](img/8.png)
+
+### Input and Output
+
+Understanding input and output operations is fundamental to Python programming. With the print() function, we can display output in various formats, while the input() function enables interaction with users by gathering input during program execution.
+
+#### **Input**
+
+- **Print Strings in Python**
+  
+Python's input() function is used to take user input. By default, it returns the user input in form of a string.
+name = input("Enter your name: ")
+
+- **Print Numbers in Python**
+
+The code prompts the user to input an integer representing the number of roses, converts the input to an integer using typecasting and then prints the integer value.
+int(input("How many roses?: "))
+
+- **Print Float or Decimal Number in Python**
+
+The code prompts the user to input the price of each rose as a floating-point number, converts the input to a float using typecasting and then prints the price.
+float(input("Price of each rose?: "))
+
+#### **Output**
+
+name = input("Enter your name: ")
+print("Hello,", name, "! Welcome!")
+
+**Output**
+Hello, Akhilesh! Welcome
+
+### Comments
+
+Comments in Python are the lines in the code that are ignored by the interpreter during the execution of the program.
+
+(# I am single line comment)
+
+""" Multi-line comment used
+print("Python Comments") """
+
+
+
+
+
+
+
+
+
+
