@@ -222,6 +222,56 @@ Bitwise operators are used to perform operations on individual bits of binary nu
 
 ![Bitwise Operators](img/7.png)
 
+![Decimal to Binary](img/25-in-binary.png)
+![Decimal to Binary](img/17-in-binary.png)
+
+<table border="2px" style="padding: 10px; border:2px solid orange; border-collapse: collapse; font-size:25px;">
+        <tr>
+            <th style="padding: 10px; text-align:center;">Decimal</th>
+            <th style="padding: 10px; text-align:center;">Binary</th>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">1</td>
+            <td style="padding: 10px; text-align:center;">1</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">2</td>
+            <td style="padding: 10px; text-align:center;">10</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">3</td>
+            <td style="padding: 10px; text-align:center;">11</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">4</td>
+            <td style="padding: 10px; text-align:center;">100</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">5</td>
+            <td style="padding: 10px; text-align:center;">101</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">6</td>
+            <td style="padding: 10px; text-align:center;">110</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">7</td>
+            <td style="padding: 10px; text-align:center;">111</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">8</td>
+            <td style="padding: 10px; text-align:center;">1000</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">9</td>
+            <td style="padding: 10px; text-align:center;">1001</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; text-align:center;">10</td>
+            <td style="padding: 10px; text-align:center;">1010</td>
+        </tr>
+</table>
+
 #### **Assignment Operators**
 
 Assignment operators are used to assign values to variables. They are used in loops and other constructs to update variable values.
