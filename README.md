@@ -323,7 +323,53 @@ print("Python Comments") """
 #### Simple Interest
 
 
+<!-- If Elif Else -->
+### If Elif Else
 
+#### If Condition
+
+If statements are used to execute a block of code if a certain condition is true.
+
+These conditions can be used in several ways, most commonly in "if statements" and loops.
+
+An "if statement" is written by using the if keyword.
+
+a = 33
+b = 200
+if b > a:
+    print("b is greater than a")
+
+The if statement evaluates a condition (an expression that results in True or False). If the condition is true, the code block inside the if statement is executed. If the condition is false, the code block is skipped.
+
+#### Elif Condition
+
+The elif keyword is used to check multiple conditions. If the first condition is false, the elif condition is checked. If the elif condition is true, the code block inside the elif statement is executed. If the elif condition is false, the code block is skipped.
+
+The elif keyword is Python's way of saying "if the previous conditions were not true, then try this condition".
+
+The elif keyword allows you to check multiple expressions for True and execute a block of code as soon as one of the conditions evaluates to True.
+
+a = 33
+b = 33
+if b > a:
+    print("b is greater than a")
+elif a == b:
+    print("a and b are equal")
+
+#### Else Condition
+
+The else keyword is used to execute a block of code if none of the previous conditions are true.
+
+The else keyword is Python's way of saying "if the previous conditions were not true, then do this".
+
+a = 200
+b = 33
+if b > a:
+    print("b is greater than a")
+elif a == b:
+    print("a and b are equal")
+else:
+    print("a is greater than b")
 
 
 
