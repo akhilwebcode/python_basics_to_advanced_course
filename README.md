@@ -371,6 +371,19 @@ elif a == b:<br>
 else:<br>
     print("a is greater than b")<br>
 
+### Nested Conditions
+
+- Nested conditions allow you to check multiple conditions within another condition. This means that you can have an "if" statement inside another "if" statement.
+
+- You can have if statements inside if statements. This is called nested if statements.
+
+x = 41<br>
+if x > 10:<br>
+    print("Above ten,")<br>
+    if x > 20:<br>
+        print("and also above 20!")<br>
+    else:<br>
+        print("but not above 20.")
 
 
 
