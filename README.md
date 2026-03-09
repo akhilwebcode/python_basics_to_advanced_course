@@ -405,30 +405,10 @@ for x in names:<br>
 
 ![While Loop](img/flow.png) 
 
-<dt>i = 1</dt>
-<dt>while i < 6:</dt>
-<dd>print(i)</dd>
-<dd>i += 1</dd>
 - The while loop requires relevant variables to be ready, in this example we need to define an indexing variable, i, which we set to 1.
-- With the break statement we can stop the loop even if the while condition is true:<br>
+- With the break statement we can stop the loop even if the while condition is true:
 
-<dt>i = 1</dt>
-<dt>while i < 6:</dt>
-  <dd>print(i)</dd>
-  <dd>if (i == 3):</dd>
-    <dd>break</dd>
-  <dd>i += 1</dd>
 - With the continue statement we can stop the current iteration, and continue with the next:
-<dt>i = 0</dt>
-<dt>while i < 6:</dt>
-  <dd>i += 1</dd>
-  <dd>if i == 3:</dd>
-    <dd>continue</dd>
-  <dd>print(i)</dd>
+
+
 - With the else statement we can run a block of code once when the condition no longer is true:
-<dt>i = 1</dt>
-<dt>while i < 6:</dt>
-  <dd>print(i)</dd>
-  <dd>i += 1</dd>
-  <dd>else:</dd>
-    <dd>print("i is no longer less than 6")</dd>
