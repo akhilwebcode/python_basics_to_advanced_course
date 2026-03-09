@@ -410,7 +410,7 @@ for x in names:<br>
 <dd>print(i)</dd>
 <dd>i += 1</dd>
     <br>
-- The while loop requires relevant variables to be ready, in this example we need to define an indexing variable, i, which we set to 1.<br><br>
+- The while loop requires relevant variables to be ready, in this example we need to define an indexing variable, i, which we set to 1.
 - With the break statement we can stop the loop even if the while condition is true:<br>
 
 <dt>i = 1</dt>
@@ -420,7 +420,7 @@ for x in names:<br>
     <dd>break</dd>
   <dd>i += 1</dd>
 <br>
-- With the continue statement we can stop the current iteration, and continue with the next:<br>
+- With the continue statement we can stop the current iteration, and continue with the next:
 <dt>i = 0</dt>
 <dt>while i < 6:</dt>
   <dd>i += 1</dd>
@@ -429,7 +429,6 @@ for x in names:<br>
   <dd>print(i)</dd>
 <br><br>
 - With the else statement we can run a block of code once when the condition no longer is true:
-<br>
 <dt>i = 1</dt>
 <dt>while i < 6:</dt>
   <dd>print(i)</dd>
