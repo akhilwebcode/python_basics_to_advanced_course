@@ -403,6 +403,8 @@ for x in names:<br>
  
 - With the while loop we can execute a set of statements as long as a condition is true.
 
+![While Loop](img/flow.png)
+
 <dt>i = 1</dt>
 <dt>while i < 6:</dt>
 <dd>print(i)</dd>
